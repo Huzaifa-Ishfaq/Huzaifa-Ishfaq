@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Huzaifa-Ishfaq
-- 👀 I’m interested in Syber Security
+- 👀 I’m interested in AI\Robotics
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
